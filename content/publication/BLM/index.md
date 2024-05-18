@@ -1,7 +1,7 @@
 ---
 title: "Weather to Protest: The Effect of Black Lives Matter Protests on the 2020 Presidential Election"
 date: "2021-03-21"
-publication: "Political Behavior, Revise & Resubmit"
+publication: "Political Behavior - R & R"
 authors: 
   - Bouke Klein Teeselink
   - admin
