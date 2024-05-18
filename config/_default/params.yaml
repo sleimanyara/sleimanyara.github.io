@@ -6,14 +6,11 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  mode: system
+  color: red
   font: minimal
   font_size: S
-custom_css: |
-  header {
-    background-color: #ff5733; /* Replace with your desired color */
-  }
+
 
 # SEO
 
