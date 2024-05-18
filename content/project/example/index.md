@@ -1,6 +1,6 @@
 ---
 title: Informality in Lebanon
-summary: An example of using the in-built project page.
+summary: Labour markets under uncertainty
 tags:
   - Leverhulme Trust
 date: '2021-06-30'

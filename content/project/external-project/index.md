@@ -1,14 +1,9 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Reframing Welfare Index
+summary: Measuring Inequalities in European Regions
 tags:
-  - Demo
-date: "2016-04-27T00:00:00Z"
+  - Development
+date: "2022-01-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
-
-image:
-  caption: Photo by Toa Heftiba on Unsplash
-  focal_point: Smart
----
+external_link: https://www.reframingwelfare.com
