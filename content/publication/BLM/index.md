@@ -1,14 +1,11 @@
 ---
 title: "Weather to Protest: The Effect of Black Lives Matter Protests on the 2020 Presidential Election"
-date: 
 publication: "Political Behavior - R & R"
 authors: 
   - Bouke Klein Teeselink
   - admin
 doi: "http://dx.doi.org/10.2139/ssrn.3809877"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
