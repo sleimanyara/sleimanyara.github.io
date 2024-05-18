@@ -1,13 +1,10 @@
 ---
-title: "An example journal article"
+title: "Weather to Protest: The Effect of Black Lives Matter Protests on the 2020 Presidential Election"
 authors:
 - admin
-- Robert Ford
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2015-09-01T00:00:00Z"
-doi: ""
+- Bouke Klein Teeselin
+date: "2021-03-21"
+doi: "http://dx.doi.org/10.2139/ssrn.3809877"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,13 +15,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
-publication_short: ""
+publication: "*R & R, Political Behavior"
+publication_short: "POBE"
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Do mass mobilizations bring about social change? This paper explores this question by studying the impact of the Black Lives Matter protests that erupted after George Floyd’s death on the 2020 presidential election. We show, through an IV and a Diff-in-Diff approach, that variation in protesting activity caused increased support for the Democratic party in counties with heightened protest activity. Our analysis examines the effects of these protests not only on voting but also on public opinion. By distinguishing between the short-term backlash and the long-term effect on racial attitudes and voting behavior, we provide causal evidence of the protests' overall effect, as well as insights into the timeline and mechanisms through which this influence materialized. We show that the observed effects cannot be fully attributed to changes in turnout, and that protests also engender shifts in people’s attitudes about racial disparities.
 
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
 - Source Themes
