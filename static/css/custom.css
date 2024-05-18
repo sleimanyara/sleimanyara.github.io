@@ -18,13 +18,13 @@ header {
     margin-bottom: 5px;
 }
 
-.publication-journal {
+.publication-publication {
     color: red;
     font-style: italic;
     margin-bottom: 5px;
 }
 
-.publication-year {
+.publication-date {
     color: #333;
     margin-bottom: 15px;
 }
