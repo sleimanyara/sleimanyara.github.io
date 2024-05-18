@@ -21,3 +21,7 @@ name = "Minimal"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"
+  
+  # Boxes
+  box_background = "#bbdefb"
+  box_text = "#bbdefb"
