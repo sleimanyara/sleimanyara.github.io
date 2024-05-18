@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: crimson
+  theme: crimson
   font: minimal
   font_size: M
 
