@@ -3,12 +3,12 @@ name = "Minimal"
 
 [light]
   # Primary
-  primary = "#DC143C"
+  primary = "#8B0000"
 
   # Menu
   menu_primary = "#fff"
   menu_text = "#34495e"
-  menu_text_active = "#DC143C"
+  menu_text_active = "#8B0000"
   menu_title = "#2b2b2b"
 
   # Home sections
@@ -17,7 +17,7 @@ name = "Minimal"
 
 [dark]
   # Primary
-  primary = "#8B0000"
+  primary = "#bbdefb"
 
-  link = "#8B0000"
-  link_hover = "#8B0000"
+  link = "#bbdefb"
+  link_hover = "#bbdefb"
