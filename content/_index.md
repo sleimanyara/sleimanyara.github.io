@@ -54,11 +54,13 @@ sections:
         - title: Research Officer
           company: London School of Economics and Political Science
           company_url: ''
+          company_logo: org-gc
           location: London
           date_start: '2021-10-01'
           date_end: ''
         - title: Senior Research Fellow (Hon)
           company: University College London
+          company_logo: org-gc
           company_url: ''
           location: London
           date_start: '2020-01-01'
