@@ -1,8 +1,8 @@
 <article class="publication">
     <header>
         <h1 class="publication-title">{{ .Title }}</h1>
-        <p class="publication-journal">{{ .Params.journal }}</p>
-        <p class="publication-year">{{ .Date.Format "2006" }}</p>
+        <p class="publication-publication">{{ .Params.journal }}</p>
+        <p class="publication-date">{{ .Date.Format "2006" }}</p>
     </header>
     <div class="publication-authors">
         <p>{{ .Params.authors }}</p>
