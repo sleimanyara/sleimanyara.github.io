@@ -1,8 +1,8 @@
 ---
 title: "‘Sleeping With the Enemy’: Partisan Sorting in Online Dating"
 authors: 
-  - with Yara Sleiman
-  - [Paul Dolan](https://pauldolan.co.uk/)
+  -with Yara Sleiman
+  -[Paul Dolan](https://pauldolan.co.uk/)
 date: "2023-10-03"
 doi: "http://dx.doi.org/10.2139/ssrn.4589420"
 
