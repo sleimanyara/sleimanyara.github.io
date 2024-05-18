@@ -4,7 +4,7 @@ date: "2021-03-21"
 publication: "Political Behavior, Revise & Resubmit"
 authors: 
   - Bouke Klein Teeselink
-  - author
+  - admin
 doi: "http://dx.doi.org/10.2139/ssrn.3809877"
 
 # Schedule page publish date (NOT publication's date).
