@@ -2,21 +2,20 @@
 {{ $has_attachments := partial "functions/has_attachments" $item }}
 
 <div class="pub-list-item view-citation" style="margin-bottom: 1rem">
-  <i class="far fa-file-alt pub-icon" aria-hidden="true"></i>
 
   {{/* APA Style */}}
   {{ if eq (site.Params.publications.citation_style | default "apa") "apa" }}
 
   <!-- Title -->
-  <a href="{{ $item.RelPermalink }}" class="underline">{{ $item.Title }}</a>.<br>
+  <a href="{{ $item.RelPermalink }}" class="underline" style="font-size: 1.2rem">{{ $item.Title }}</a>.<br>
 
   <!-- Publication Details -->
   {{ if $item.Params.publication_short }}
-    {{- $item.Params.publication_short | markdownify -}},
+    <strong>{{ $item.Params.publication_short | markdownify }}</strong>,
   {{ else if $item.Params.publication }}
-    {{- $item.Params.publication | markdownify -}},
+    <strong>{{ $item.Params.publication | markdownify }}</strong>,
   {{ end }}
-  ({{- $item.Date.Format "2006" -}})<br>
+  ({{- $item.Date.Format "2006" -}})<br><br>
 
   <!-- Authors -->
   <span class="article-metadata li-cite-author">
@@ -33,15 +32,15 @@
   {{ else }}
 
   <!-- Title -->
-  <a href="{{ $item.RelPermalink }}">{{ $item.Title }}</a>.<br>
+  <a href="{{ $item.RelPermalink }}" style="font-size: 1.2rem">{{ $item.Title }}</a>.<br>
 
   <!-- Publication Details -->
   {{ if $item.Params.publication_short }}
-    {{- $item.Params.publication_short | markdownify -}},
+    <strong>{{ $item.Params.publication_short | markdownify }}</strong>,
   {{ else if $item.Params.publication }}
-    {{- $item.Params.publication | markdownify -}},
+    <strong>{{ $item.Params.publication | markdownify }}</strong>,
   {{ end }}
-  ({{- $item.Date.Format "2006" -}})<br>
+  ({{- $item.Date.Format "2006" -}})<br><br>
 
   <!-- Authors -->
   <span class="article-metadata li-cite-author">
