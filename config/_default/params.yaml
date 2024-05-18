@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  mode: light
+  theme_day: minimal
   color: crimson
   font_size: M
 
@@ -58,7 +58,7 @@ locale:
 
 features:
   syntax_highlighter:
-    theme_light: github-light
+    theme_light: crimson
     theme_dark: dracula
   math:
     enable: false
