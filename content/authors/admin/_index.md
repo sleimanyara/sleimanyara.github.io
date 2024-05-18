@@ -33,10 +33,6 @@ interests:
   - Public Economics
   - Development
 
-methods:
-  - Causal Inference
-  - Experiments
-
 # Education to show in About widget
 education:
   courses:
