@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme: red-theme
+  theme: minimal
   font: minimal
-  font_size: S
+  font_size: M
 
 
 # SEO
