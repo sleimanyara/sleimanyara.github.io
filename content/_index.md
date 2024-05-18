@@ -53,7 +53,7 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: working
+    id: wp
     content: 
       title: Working Papers
       text: |-
