@@ -1,18 +1,11 @@
-<article class="publication">
-    <header>
-        <h1 class="publication-title">{{ .Title }}</h1>
-        <p class="publication-journal">{{ .Params.journal }}</p>
-        <p class="publication-year">{{ .Date.Format "2006" }}</p>
-    </header>
-    <div class="publication-authors">
-        <p>{{ .Params.authors }}</p>
-    </div>
-    <div class="publication-links">
-        {{ with .Params.summary }}<a href="{{ . }}">Summary</a>{{ end }}
-        {{ with .Params.journal_url }}<a href="{{ . }}">Journal</a>{{ end }}
-        {{ with .Params.pdf }}<a href="{{ . }}">PDF</a>{{ end }}
-        {{ with .Params.google_scholar }}<a href="{{ . }}">Google Scholar</a>{{ end }}
-        {{ with .Params.online_supplement }}<a href="{{ . }}">Online Supplement</a>{{ end }}
-        {{ with .Params.media }}<a href="{{ . }}">{{ .Params.media_text }}</a>{{ end }}
-    </div>
-</article>
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ .Title }}</title>
+    <link rel="stylesheet" href="{{ "css/custom.css" | relURL }}">
+    {{ partial "css.html" . }}
+    {{ partial "js.html" . }}
+</head>
+<body>
