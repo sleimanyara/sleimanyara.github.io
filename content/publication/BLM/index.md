@@ -1,6 +1,7 @@
 ---
 title: "Weather to Protest: The Effect of Black Lives Matter Protests on the 2020 Presidential Election"
-authors: with Bouke Klein Teeselink
+authors: 
+  - with Bouke Klein Teeselink
 date: "2021-03-21"
 doi: "http://dx.doi.org/10.2139/ssrn.3809877"
 
