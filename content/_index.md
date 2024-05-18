@@ -53,7 +53,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: abstract
+      view: cite
   - block: collection
     id: posts
     content:
