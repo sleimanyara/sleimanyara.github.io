@@ -21,7 +21,8 @@ name = "Minimal"
 
   link = "#bbdefb"
   link_hover = "#bbdefb"
-  
-  # Boxes
-  box_background = "#bbdefb"
-  box_text = "#bbdefb"
+
+  # Button colors
+  button_background = "#bbdefb"
+  button_text = "#000000"  # Adjust if necessary to ensure contrast
+  button_border = "#bbdefb"
