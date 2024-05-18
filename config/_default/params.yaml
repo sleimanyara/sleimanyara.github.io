@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme: 1950s
+  theme: minimal
   font: minimal
   font_size: M
 
