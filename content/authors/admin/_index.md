@@ -3,7 +3,7 @@
 title: George Melios
 
 # Name pronunciation (optional)
-name_pronunciation: George Melios
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: George 
@@ -46,46 +46,6 @@ education:
       institution: Panteion University of Social and Political Sciences
       year: 2015
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-      - name: R
-        description: ''
-        percent: 80
-        icon: R
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 70
-        icon: chart-line
-        icon_pack: fas
-      - name: python
-        description: ''
-        percent: 40
-        icon: python
-        icon_pack: fas
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -119,5 +79,12 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+My name is George and my academic work is at the intersection of political economy and behavioural science.
 
+
+My research primarily focuses on the foundations of democracy: how democratic institutions function, how citizens interact with them and how they can be improved. I look at the electoral cycle through four essential angles: i) the factors that affect citizens’ participation, ii) those that shape their preferences, iii) the effect of elections on policies and welfare, and iv) collective decision making when institutions fail.
+
+
+While my individual papers focus on just one or two of these steps at a time, my research as a whole seeks to paint a fresh and articulated picture of how democracy works, from how voters think and act to the output of democratic processes.
 {style="text-align: justify;"}
+
