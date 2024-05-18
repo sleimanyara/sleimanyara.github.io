@@ -44,7 +44,7 @@ sections:
       username: admin
   - block: experience
     content:
-      title: Experience
+      title: Affiliations
       # Date format for experience
       #   Refer to https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -57,20 +57,31 @@ sections:
         - title: Research Officer
           company: London School of Economics and Political Science
           company_url: ''
-          company_logo: org-gc
           location: London
           date_start: '2021-10-01'
           date_end: ''
         - title: Senior Research Fellow (Hon)
           company: University College London
           company_url: ''
-          company_logo: org-x
           location: London
           date_start: '2020-01-01'
           date_end: ''
     design:
       columns: '2'
-
+- block: collection
+    content:
+      title: Papers
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
   - block: collection
     id: posts
     content:
@@ -127,20 +138,6 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
   - block: collection
     id: talks
     content:
