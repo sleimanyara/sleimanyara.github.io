@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  color: blue
-  font: minimal
+  mode: light
+  color: crimson
   font_size: M
 
 
