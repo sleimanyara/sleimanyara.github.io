@@ -15,7 +15,10 @@
   {{ else if $item.Params.publication }}
     <strong>{{ $item.Params.publication | markdownify }}</strong>,
   {{ end }}
-  ({{- $item.Date.Format "2006" -}})<br><br>
+  ({{- $item.Date.Format "2006" -}})<br>
+  
+  <!-- Smaller Space Between Publication and Authors -->
+  <div style="margin-top: 0.5rem;"></div>
 
   <!-- Authors -->
   <span class="article-metadata li-cite-author">
@@ -40,7 +43,10 @@
   {{ else if $item.Params.publication }}
     <strong>{{ $item.Params.publication | markdownify }}</strong>,
   {{ end }}
-  ({{- $item.Date.Format "2006" -}})<br><br>
+  ({{- $item.Date.Format "2006" -}})<br>
+
+  <!-- Smaller Space Between Publication and Authors -->
+  <div style="margin-top: 0.5rem;"></div>
 
   <!-- Authors -->
   <span class="article-metadata li-cite-author">
