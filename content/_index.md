@@ -36,7 +36,7 @@ sections:
           date_start: '2020-01-01'
           date_end: ''
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: papers 
     content:
@@ -117,7 +117,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Feel free to contact me from the list below.
+        You can contact me or book an appoinment at:
       # Contact (add or remove contact options as necessary)
       email: g.melios@lse.ac.uk
       appointment_url: 'https://calendly.com/g-melios'
@@ -131,11 +131,11 @@ sections:
       office_hours:
         - 'Wednesday 10:30 to 13:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/GeorgeMelios'
+      # contact_links:
+      #   - icon: twitter
+      #     icon_pack: fab
+      #     name: DM Me
+      #     link: 'https://twitter.com/GeorgeMelios'
       # Automatically link email and phone or display as text?
       design:
       columns: '2'
