@@ -16,7 +16,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*R & R, Political Behavior"
-publication_short: "POBE"
+
 
 abstract: Do mass mobilizations bring about social change? This paper explores this question by studying the impact of the Black Lives Matter protests that erupted after George Floyd’s death on the 2020 presidential election. We show, through an IV and a Diff-in-Diff approach, that variation in protesting activity caused increased support for the Democratic party in counties with heightened protest activity. Our analysis examines the effects of these protests not only on voting but also on public opinion. By distinguishing between the short-term backlash and the long-term effect on racial attitudes and voting behavior, we provide causal evidence of the protests' overall effect, as well as insights into the timeline and mechanisms through which this influence materialized. We show that the observed effects cannot be fully attributed to changes in turnout, and that protests also engender shifts in people’s attitudes about racial disparities.
 
@@ -28,8 +28,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: 
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
