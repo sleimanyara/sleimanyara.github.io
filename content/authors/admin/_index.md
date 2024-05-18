@@ -30,8 +30,9 @@ bio: My research primarily focuses on the foundations of democracy how democrati
 # Interests to show in About widget
 interests:
   - Political Economy
-  - Behavioural Economics
-  - Information Retrieval
+  - Public Economics
+  - Development
+  - Behavioural Science
 
 # Education to show in About widget
 education:
@@ -53,7 +54,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:g.melios@lse.ac.uk'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeMelios
