@@ -1,6 +1,6 @@
 ---
 title: "Who Needs Security in a Crisis? Evidence from an In-the-Field Choice Experiment in Lebanon"
-date: "2022"
+date: "2022-09-15"
 publication: "Under Review"
 authors: 
   - admin
