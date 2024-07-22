@@ -1,6 +1,6 @@
 ---
 title: Informality in Lebanon
-summary: Labour markets under uncertainty
+summary: Job choices under uncertainty 
 tags:
   - Leverhulme Trust
 date: '2021-06-30'
