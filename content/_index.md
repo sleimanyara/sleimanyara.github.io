@@ -84,7 +84,7 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Economics
+        - name: Public Policy
           tag: Econ
         - name: Development
           tag: Dev
