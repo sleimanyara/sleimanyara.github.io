@@ -1,8 +1,8 @@
 ---
-title: BENEFITS - Building Economic, Needs-based & Environmental Evaluation Frameworks for Inclusive Transformation of Social services in Europe
-summary: Political Participation in Multilingual Spaces
+title: BENEFITS - Measuring the Value added of Social Services
+summary: Horizon Europe
 tags:
-  - Horizon Europe
+  - Econ
 date: '2024-06-10'
 
 # Optional external URL for project (replaces project detail page).
@@ -18,7 +18,7 @@ external_link: ''
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 # url_code: ''
-url_pdf: 'https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl2-2024-democracy-01-10'
+url: 'https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl2-2024-democracy-01-10'
 # url_slides: ''
 # url_video: ''
 
