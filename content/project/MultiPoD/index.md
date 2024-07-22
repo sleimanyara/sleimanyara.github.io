@@ -1,8 +1,9 @@
 ---
-title: MultiPoD - Multilingual and Multicultural Space for Political Deliberation
-summary: Political Participation in Multilingual Spaces
+title: MultiPoD - Political Participation in Multilingual Spaces
+summary: Horizon Europe (Democracy 01-10)
 tags:
   - Horizon Europe
+  - Econ
 date: '2024-06-30'
 
 # Optional external URL for project (replaces project detail page).
@@ -16,9 +17,9 @@ external_link: ''
 #   - icon: twitter
 #     icon_pack: fab
 #     name: Follow
-#     url: https://twitter.com/georgecushen
+   url: 'https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl2-2024-democracy-01-10'
 # url_code: ''
-url_pdf: 'https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl2-2024-democracy-01-10'
+# url_pdf: 'https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl2-2024-democracy-01-10'
 # url_slides: ''
 # url_video: ''
 

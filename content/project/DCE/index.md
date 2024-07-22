@@ -1,8 +1,8 @@
 ---
-title: Informality in Lebanon
-summary: Job choices under uncertainty 
+title: Informality in Lebanon - Job choices under uncertainty 
+summary: Leverhulme Trust
 tags:
-  - Leverhulme Trust
+  - Dev
 date: '2021-06-30'
 
 # Optional external URL for project (replaces project detail page).
