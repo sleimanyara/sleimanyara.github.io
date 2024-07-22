@@ -30,8 +30,8 @@ bio: My research primarily focuses on the foundations of democracy how democrati
 # Interests to show in About widget
 interests:
   - Political Economy
-  - Public Economics
-  - Development
+  - Behavioural Science
+  - Public Policy
 
 # Education to show in About widget
 education:
