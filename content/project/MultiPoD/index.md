@@ -13,11 +13,11 @@ external_link: ''
 #   caption: Photo by rawpixel on Unsplash
 #   focal_point: Smart
 
-# links:
+links:
 #   - icon: twitter
 #     icon_pack: fab
 #     name: Follow
-   url: 'https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl2-2024-democracy-01-10'
+url: 'https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl2-2024-democracy-01-10'
 # url_code: ''
 # url_pdf: 'https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl2-2024-democracy-01-10'
 # url_slides: ''
