@@ -1,5 +1,5 @@
 ---
-title: wp
+title: Working Papers
 cms_exclude: true
 
 # View.
