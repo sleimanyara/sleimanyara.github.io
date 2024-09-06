@@ -1,7 +1,7 @@
 ---
 title: "Religion, Identity, and Preferences"
 date: "2024-07-06"
-publication: 
+publication: Under Review
 authors: 
   - Bouke Klein Teeselink
   - admin
