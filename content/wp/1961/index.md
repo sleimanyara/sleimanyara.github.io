@@ -1,7 +1,7 @@
 ---
 title: "Wefare costs of cognitive dissonance in the case of Brexit"
 date: "2023-01-15"
-publication: Journal of Politics, R & R
+publication: R & R - Journal of Politics
 authors: 
   - admin
   - Paul Dolan
