@@ -1,7 +1,7 @@
 ---
 title: "Partisanship, Government responsibility and charitable donations"
 date: "2022-09-15"
-publication: "Under Review"
+publication: "R & R - Public Choice"
 authors: 
   - Bouke Klein Teeselink
   - admin
