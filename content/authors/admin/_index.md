@@ -23,6 +23,8 @@ role: Researcher
 organizations:
   - name: London School of Economics and Political Science
     url: https://www.lse.ac.uk/PBS
+  - name: Royal Holloway University London
+    url: https://www.lse.ac.uk/PBS
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research primarily focuses on the foundations of democracy how democratic institutions function, how citizens interact with them and how they can be improved.
