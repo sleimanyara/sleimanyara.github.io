@@ -1,11 +1,9 @@
 ---
 title: "Data Science for Social Scientists - DS202"
-summary: M.Sc.
+summary: B.Sc. level (Across departments) - Data Science Institute / LSE
 type: docs
 permalink: /teaching/DS202
-venue: "London School of Economics and Political Science, Department of Psychological and Behavioural Science"
 date: 2021-10-01
-location: "London, UK"
 math: false
 tags:
   - Quants
