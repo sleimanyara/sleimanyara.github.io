@@ -1,19 +1,12 @@
 ---
-title: Causal Inference for Behavioural Science - LSE
-summary: M.Sc.
+title: [Causal Inference for Behavioural Science (PB4A7)](https://georgemelios.com/PB4A7) - 2022-2025
+summary: M.Sc. in Bhehavioural Science - London School of Economics & Political Science
 type: docs
 math: false
 tags:
   - Quants
 ---
 
-[Hugo Blox Builder](https://hugoblox.com) is designed to give technical content creators a seamless experience. You can focus on the content and the Hugo Blox Builder which this template is built upon handles the rest.
+In this course, students will immerse themselves in the world of causal inference methodologies, a cornerstone in behavioural science research. The curriculum guides learners through the essential processes of cleaning, analysing, and visualising secondary data, equipping them with the skills to conduct robust and insightful research. Through practical examples, students will learn to adeptly navigate various research designs, and develop the proficiency to communicate their findings effectively, fostering a deeper understanding and application of best practices in behavioural science.
 
-**Embed videos, podcasts, code, LaTeX math, and even test students!**
-
-On this page, you'll find some examples of the types of technical content that can be rendered with Hugo Blox.
-
-## Video
-
-Teach your course by sharing videos with your students. Choose from one of the following approaches:
-
+Focus: Understand the fundamentals of causal inference and its applications in Behavioural Science. Master statistical tools used by psychologists, political scientists, and economists. Recognize and address contemporary issues in behavioural science.
