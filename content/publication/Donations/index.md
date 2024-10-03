@@ -1,7 +1,7 @@
 ---
-title: "Partisanship, Government responsibility and charitable donations"
-date: "2022-09-15"
-publication: "Accepted - Public Choice"
+title: "Partisanship, Political Alignment and Charitable Donations"
+date: "2024"
+publication: "Public Choice, Accepted"
 authors: 
   - Bouke Klein Teeselink
   - admin
