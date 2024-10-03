@@ -96,16 +96,16 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  #- block: collection
-  #  id: teaching
-  #  content:
-  #   title: Teaching
-  #   filters:
-  #    folders:
-  #      - teaching
-  #   design:
-  #     columns: '2'
-  #     view: compact
+  - block: collection
+    id: teaching
+    content:
+     title: Teaching
+     filters:
+      folders:
+        - teaching
+     design:
+       columns: '2'
+       view: compact
   # - block: tag_cloud
   #   content:
   #     title: Popular Topics
