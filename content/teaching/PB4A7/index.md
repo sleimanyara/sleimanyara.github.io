@@ -1,7 +1,9 @@
 ---
-title: Causal Inference for Behavioural Science (PB4A7) - 2022-2025
+title: Causal Inference for Behavioural Science
 summary: M.Sc. in Bhehavioural Science - London School of Economics & Political Science
 type: docs
+permalink: /PB4A7
+date: 2024-10-01
 math: false
 tags:
   - Quants
