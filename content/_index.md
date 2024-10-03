@@ -96,13 +96,13 @@ sections:
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  # - block: collection
-  #   id: talks
-  #   content:
-  #     title: Recent & Upcoming Talks
-  #     filters:
-  #       folders:
-  #         - event
+  - block: collection
+    id: talks
+    content:
+     title: Teaching
+     filters:
+      folders:
+           - teaching
   #   design:
   #     columns: '2'
   #     view: compact

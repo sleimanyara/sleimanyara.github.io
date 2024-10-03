@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: CV
+    url: uploads/resume.pdf
+    weight: 70
   - name: Publications
     url: '#papers'
     weight: 20
@@ -22,6 +25,4 @@ main:
   - name: Contact
     url: '#contact'
     weight: 50
-  - name: CV
-    url: uploads/resume.pdf
-    weight: 70
+
