@@ -1,5 +1,5 @@
 ---
-title: [Causal Inference for Behavioural Science (PB4A7)](https://georgemelios.com/PB4A7) - 2022-2025
+title: Causal Inference for Behavioural Science (PB4A7) - 2022-2025
 summary: M.Sc. in Bhehavioural Science - London School of Economics & Political Science
 type: docs
 math: false
