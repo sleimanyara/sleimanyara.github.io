@@ -2,10 +2,6 @@
 title: Causal Inference for Behavioural Science - LSE
 summary: M.Sc.
 type: docs
-permalink: /teaching/PB4A7
-venue: "London School of Economics and Political Science, Department of Psychological and Behavioural Science"
-date: 2022-10-01
-location: "London, UK"
 math: false
 tags:
   - Quants
