@@ -1,10 +1,10 @@
 ---
-title: "Wefare costs of cognitive dissonance in the case of Brexit"
+title: "Remnants of Civil War: Immediate and long-run effects of electoral oppression in cold war Greece"
 date: "2023-01-15"
-publication: R & R - Journal of Politics
+publication: Working paper
 authors: 
+  - V. Logothetis
   - admin
-  - Paul Dolan
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -34,7 +34,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'uploads/pres_lse.pdf'
 url_source: ''
 url_video: ''
 
