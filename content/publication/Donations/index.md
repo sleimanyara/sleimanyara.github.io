@@ -8,7 +8,7 @@ authors:
 doi: "http://dx.doi.org/10.2139/ssrn.4189400"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-01-10"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
