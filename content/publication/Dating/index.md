@@ -1,7 +1,7 @@
 ---
 title: "‘Sleeping With the Enemy’: Partisan Sorting in Online Dating"
-date: "2023-10-03"
-publication: "R & R - Political Science Research and Methods (PSRM)"
+date: "2024-10-03"
+publication: "Accepted - Political Science Research and Methods (PSRM)"
 authors: 
   - Yara Sleiman
   - admin
