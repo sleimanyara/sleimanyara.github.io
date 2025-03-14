@@ -3,8 +3,6 @@ title: "Not as bad as I thought: Economic attitudes and motivated reasoning in c
 date: "2024-09-15"
 publication: "Political Psychology, Accepted"
 authors: 
-  - George Kavetsos
-  - Chris Krekel
   - admin
 doi: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947672"
 
@@ -27,7 +25,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
