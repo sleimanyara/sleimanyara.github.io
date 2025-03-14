@@ -1,5 +1,5 @@
 ---
-title: "'Not as bad as I thought': Economic attitudes and motivated reasoning in coalition governments"
+title: "Not as bad as I thought: Economic attitudes and motivated reasoning in coalition governments"
 date: "2024-09-15"
 publication: "Political Psychology, Accepted"
 authors: 
@@ -27,7 +27,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/german.pdf'
+url_pdf: 
 url_code: ''
 url_dataset: ''
 url_poster: ''
