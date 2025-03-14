@@ -1,8 +1,10 @@
 ---
 title: "Not as bad as I thought: Economic attitudes and motivated reasoning in coalition governments"
-date: "2024-09-15"
+date: "2025-03-10"
 publication: "Political Psychology, Accepted"
 authors: 
+  - G. Kavetsos
+  - C. Krekel
   - admin
 doi: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947672"
 
