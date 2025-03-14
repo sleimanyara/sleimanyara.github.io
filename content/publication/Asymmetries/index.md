@@ -1,6 +1,6 @@
 ---
 title: "Origin of (A)symmetry: The Evolution of Out-Party Distrust in the United States"
-date: "2024-04-15"
+date: "2025-04-01"
 publication: "Journal of Politics, Forthcoming"
 authors: 
   - Bouke Klein Teeselink
