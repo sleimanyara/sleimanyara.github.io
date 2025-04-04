@@ -32,7 +32,7 @@ bio: My research primarily focuses on the foundations of democracy how democrati
 # Interests to show in About widget
 interests:
   - Political Economy
-  - Behavioural Science
+  - Behavioural Economics
   - Public Policy
 
 # Education to show in About widget
@@ -81,7 +81,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-My name is George and my academic work is at the intersection of political economy and behavioural science.
+My name is George and my academic work is on applied political economy.
 
 
 My research primarily focuses on the foundations of democracy: how democratic institutions function, how citizens interact with them and how they can be improved. I look at the electoral cycle through four essential angles: i) the factors that affect citizens’ participation, ii) those that shape their preferences, iii) the effect of elections on policies and welfare, and iv) collective decision making when institutions fail.
