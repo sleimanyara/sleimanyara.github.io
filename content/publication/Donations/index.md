@@ -34,7 +34,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: 'uploads/MPSA_2024_Donations.pdf'
+url_slides: 'uploads/MPSA_2024_Donations.pptx'
 url_source: ''
 url_video: ''
 
