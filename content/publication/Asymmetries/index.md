@@ -1,7 +1,7 @@
 ---
 title: "Origin of (A)symmetry: The Evolution of Out-Party Distrust in the United States"
 date: "2025-04-01"
-publication: "Journal of Politics, Forthcoming"
+publication: "Journal of Politics, The Journal of Politics, 87(2), pp.801–806."
 authors: 
   - Bouke Klein Teeselink
   - admin
@@ -30,11 +30,11 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: uploads/asymmetry.pdf
-url_code: ''
-url_dataset: ''
+url_code: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FUSY37'
+url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/FUSY37'
 url_poster: ''
 url_project: ''
-url_slides: 'uploads/asymmetry.pdf'
+url_slides: ''
 url_source: ''
 url_video: ''
 
