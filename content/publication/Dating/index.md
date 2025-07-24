@@ -31,8 +31,8 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: 'uploads/dating_v1.pdf'
-url_code: ''
-url_dataset: ''
+url_code: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G1H0UA'
+url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G1H0UA'
 url_poster: ''
 url_project: ''
 url_slides: 'uploads/dating_psa.pdf'

@@ -6,7 +6,7 @@ authors:
   - G. Kavetsos
   - C. Krekel
   - admin
-doi: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4947672"
+doi: "https://onlinelibrary.wiley.com/doi/full/10.1111/pops.70022"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -26,7 +26,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://onlinelibrary.wiley.com/doi/full/10.1111/pops.70022'
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -1,11 +1,11 @@
 ---
 title: "Weather to Protest: The Effect of Black Lives Matter Protests on the 2020 Presidential Election"
-date: "2025-01-01"
+date: "2025-03-04"
 publication: "Political Behavior, Forthcoming"
 authors: 
   - Bouke Klein Teeselink
   - admin
-doi: "http://dx.doi.org/10.2139/ssrn.3809877"
+doi: "https://link.springer.com/article/10.1007/s11109-025-10014-w?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250304&utm_content=10.1007/s11109-025-10014-w"
 
 
 # Publication type.
@@ -17,7 +17,7 @@ publication_types: ["article-journal"]
 
 
 
-abstract: Do mass mobilizations bring about social change? This paper explores this question by studying the impact of the Black Lives Matter protests that erupted after George Floyd’s death on the 2020 presidential election. We show, through an IV and a Diff-in-Diff approach, that variation in protesting activity caused increased support for the Democratic party in counties with heightened protest activity. Our analysis examines the effects of these protests not only on voting but also on public opinion. By distinguishing between the short-term backlash and the long-term effect on racial attitudes and voting behavior, we provide causal evidence of the protests' overall effect, as well as insights into the timeline and mechanisms through which this influence materialized. We show that the observed effects cannot be fully attributed to changes in turnout, and that protests also engender shifts in people’s attitudes about racial disparities.
+abstract: Do mass mobilizations drive social change? This paper explores this question by studying how the Black Lives Matter protests following George Floyd’s death influenced the 2020 U.S. presidential election. Using rainfall as an instrument for protest participation and complementary difference-in-differences analyses, we show that protest activity significantly increased Democratic vote share in affected coun- ties. Our research makes three key contributions. First, we show causal evidence for the effect of one of the largest protest movements ever recorded on electoral out- comes. Second, we provide evidence of novel temporal dynamics: while protests ini- tially triggered a conservative backlash, they ultimately generated progressive shifts in voting behavior. Third, we identify mechanisms driving these effects, showing that rather than merely mobilizing existing Democratic voters, protests substantively shifted political preferences and beliefs about racial inequality.
 
 
 tags:
@@ -28,7 +28,7 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: uploads/blm.pdf
-url_code: ''
+url_code: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/AVTED4&faces-redirect=true'
 url_dataset: ''
 url_poster: ''
 url_project: ''
