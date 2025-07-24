@@ -1,11 +1,11 @@
 ---
 title: "Partisanship, Political Alignment and Charitable Donations"
-date: "2024"
-publication: "Public Choice, Accepted"
+date: "2025-02-05"
+publication: "Public Choice, Volume 203, pages 523–538"
 authors: 
   - Bouke Klein Teeselink
   - admin
-doi: "http://dx.doi.org/10.2139/ssrn.4189400"
+doi: "https://link.springer.com/article/10.1007/s11127-024-01215-8"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-10"
@@ -19,7 +19,7 @@ publication_types: ["article-journal"]
 
 
 
-abstract: Who bears the responsibility for providing public goods? In this paper, we examine how alignment with the current president influences individuals' opinions about the normative role of government in welfare provision, and examine the behavioral consequences of these beliefs. In particular, we examine how changes in beliefs induced by electoral turnovers affect people’s inclination to provide welfare privately through donating to charities. Using 17 years of US tax return data, we find that alignment with the government leads to a reduction in charitable donations. Specifically, when accounting for government spending, supporters of the incumbent government lower their charitable contributions, while detractors increase theirs. This shift in donation behavior is consistent with shifts in people’s beliefs about the role and efficiency of the government, as partisans across the political spectrum report higher confidence in governments led by their preferred party and assign them greater responsibilities in addressing societal challenges.
+abstract: This paper examines how alignment with the government influences beliefs about the efficiency and role of government, and examines the behavioral consequences of these beliefs. In particular, we examine how support of versus opposition to the government affects people’s charitable donations. For both Republicans and Democrats, we find that alignment with the government leads to a reduction in charitable donations. Specifically, when accounting for government spending, supporters of the incumbent government decrease their charitable contributions, while detractors increase theirs. We explain this result by documenting a shift in people’s beliefs about the efficiency and normative role of government.
 
 
 tags:
