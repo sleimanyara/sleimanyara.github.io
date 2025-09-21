@@ -1,9 +1,9 @@
 ---
-title: "Data Science for Social Scientists - DS202"
-summary: B.Sc. level (Across departments) - Data Science Institute / LSE
+title: "Methods"
+summary: B.Sc. in Politics - Queen Mary University of London
 type: docs
-permalink: /teaching/DS202
-date: 2021-10-01
+permalink: /teaching/Methods
+date: 2024-10-01
 math: false
 tags:
   - Quants

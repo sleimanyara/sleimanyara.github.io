@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'George Melios'
+title: 'Yara Sleiman'
 date: 2022-10-24
 type: landing
 
@@ -119,17 +119,16 @@ sections:
       text: |-
         You can contact me or book an appoinment at:
       # Contact (add or remove contact options as necessary)
-      email: g.melios@lse.ac.uk
+      email: y.sleiman@qmul.ac.uk
       appointment_url: 'https://calendly.com/g-melios'
       address:
-        street: Connaught House, 65 Aldwych
-        city: Lonodn
-        postcode: 'WC2B 4EJ'
-        country: United Kingdom
-        country_code: UK
-      directions: Office 5.19 on Floor 5
+        street: 
+        city: 
+        postcode: 
+        country: 
+        country_code: 
+      directions: 
       office_hours:
-        - 'Wednesday 10:30 to 13:00'
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       # contact_links:
       #   - icon: twitter

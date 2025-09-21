@@ -81,10 +81,11 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-My name is George and my academic work is on applied political economy.
+My name is Yara and my academic work is on political decision making. I am a final-year PhD candidate in Political Science at the Queen Mary University of London, supervised by Prof. Maria Grasso.
 
+My dissertation examines how democratic participation is shaped by political cross-pressures, situations where voters are subjected to conflicting influences that affect their political preferences.
 
-My research primarily focuses on the foundations of democracy: how democratic institutions function, how citizens interact with them and how they can be improved. I look at the electoral cycle through four essential angles: i) the factors that affect citizens’ participation, ii) those that shape their preferences, iii) the effect of elections on policies and welfare, and iv) collective decision making when institutions fail.
+My work revisits classic cross-pressures rooted in competing group memberships.  While classic accounts see such pressures as demobilizing, recent work suggests they encourage deliberation by exposing citizens to diverse viewpoints. I argue that group-based cross-pressures primarily reshape how citizens decide. Using panel data analysis and a novel dynamic conjoint experiment in the US that traces electoral decision-making in real time, I show that group cross-pressures weaken policy-congruent (“correct”) voting by discouraging information-seeking and pushing voters to anchor their choices on a single salient issue. This challenges the normative view that holding conflicted attitudes improves the quality of participation and suggests that cross-pressures constrain deliberation and weaken the representational signal voters send to parties.
 
 
 While my individual papers focus on just one or two of these steps at a time, my research as a whole seeks to paint a fresh and articulated picture of how democracy works, from how voters think and act to the output of democratic processes.
