@@ -40,6 +40,10 @@ jobs:
         with:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
+      - name: Initialize Hugo modules
+        run: |
+          hugo mod download
+          hugo mod tidy
       - uses: actions/cache@v4
         with:
           path: /tmp/hugo_cache_runner/
