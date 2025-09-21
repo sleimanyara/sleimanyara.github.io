@@ -1,0 +1,32 @@
+# Jekyll configuration for GitHub Pages
+title: George Melios - Academic Website
+description: Political Science Researcher
+baseurl: ""
+url: "https://gmelios.github.io"
+
+# Disable Jekyll processing for certain files
+exclude:
+  - README.md
+  - LICENSE.md
+  - .gitignore
+  - .github/
+  - content/
+  - config/
+  - layouts/
+  - static/
+  - assets/
+  - data/
+  - images/
+  - theme.toml
+  - academic.Rproj
+  - netlify.toml
+  - preview.png
+  - go.mod
+  - .editorconfig
+  - .hugo_build.lock
+  - hugo.tar.gz
+
+# Include only the files we want to serve
+include:
+  - index.html
+  - CNAME
