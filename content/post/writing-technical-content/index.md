@@ -123,7 +123,7 @@ Save your Plotly JSON in your page folder, for example `line-chart.json`, and th
 
 Demo:
 
-<!-- Chart shortcode removed -->
+{{< chart data="line-chart" >}}
 
 You might also find the [Plotly JSON Editor](http://plotly-json-editor.getforge.io/) useful.
 
@@ -145,23 +145,31 @@ $$
 
 renders as
 
+{{< math >}}
 $$\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}$$
+{{< /math >}}
 
-Example **inline math** `$\nabla F(\mathbf{x}_{n})$` renders as $\nabla F(\mathbf{x}_{n})$.
+Example **inline math** `{{</* math */>}}$\nabla F(\mathbf{x}_{n})${{</* /math */>}}` renders as {{< math >}}$\nabla F(\mathbf{x}_{n})${{< /math >}}.
 
 Example **multi-line math** using the math linebreak (`\\`):
 
 ```latex
+{{</* math */>}}
 $$f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
 1-p_{0}^{*} & \text{if }k=0.\end{cases}$$
+{{</* /math */>}}
 ```
 
 renders as
+
+{{< math >}}
 
 $$
 f(k;p_{0}^{*}) = \begin{cases}p_{0}^{*} & \text{if }k=1, \\
 1-p_{0}^{*} & \text{if }k=0.\end{cases}
 $$
+
+{{< /math >}}
 
 ### Diagrams
 
@@ -329,7 +337,7 @@ Save your spreadsheet as a CSV file in your page's folder and then render it by 
 
 renders as
 
-<!-- Table shortcode removed -->
+{{< table path="results.csv" header="true" caption="Table 1: My results" >}}
 
 ### Callouts
 
@@ -343,7 +351,9 @@ A Markdown aside is useful for displaying notices, hints, or definitions to your
 
 renders as
 
-**Note:** A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% callout note %}}
+A Markdown aside is useful for displaying notices, hints, or definitions to your readers.
+{{% /callout %}}
 
 ### Spoilers
 
@@ -357,7 +367,7 @@ You found me!
 
 renders as
 
-<!-- Spoiler shortcode removed -->
+{{< spoiler text="Click to view the spoiler" >}} You found me! {{< /spoiler >}}
 
 ### Icons
 
@@ -373,8 +383,8 @@ Here are some examples using the `icon` shortcode to render icons:
 
 renders as
 
-Terminal  
-Python  
-R
+{{< icon name="terminal" pack="fas" >}} Terminal  
+{{< icon name="python" pack="fab" >}} Python  
+{{< icon name="r-project" pack="fab" >}} R
 
 ### Did you find this page helpful? Consider sharing it 🙌

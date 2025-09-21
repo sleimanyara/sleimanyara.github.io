@@ -3,9 +3,8 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Yara Sleiman # Website name
-baseURL: 'https://yarasleiman.github.io/' # Website URL
-theme: basic
+title: George Melios # Website name
+baseURL: 'https://example.com/' # Website URL
 
 ############################
 ## LANGUAGE
@@ -34,7 +33,7 @@ permalinks:
   publication_types: '/publication-type/:slug/'
 disableAliases: true
 outputs:
-  home: [HTML, RSS]
+  home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
 imaging:
   resampleFilter: lanczos
