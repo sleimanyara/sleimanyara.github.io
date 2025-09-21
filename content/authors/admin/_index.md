@@ -1,13 +1,13 @@
 ---
 # Display name
-title: George Melios
+title: Yara Sleiman
 
 # Name pronunciation (optional)
 name_pronunciation:
 
 # Full name (for SEO)
-first_name: George 
-last_name: Melios
+first_name: Yara 
+last_name: Sleiman
 
 # Status emoji
 status:
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Researcher
+role: Political Science Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -25,7 +25,7 @@ organizations:
     url: https://www.qmul.ac.uk/politics/study/phd/currentresearchstudents/student-profiles/yara-sleiman.html
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research primarily focuses on the foundations of democracy how democratic institutions function, how citizens interact with them and how they can be improved.
+bio: My research focuses on political behavior, public opinion, and experimental methods, with particular interest in how political preferences influence personal decisions and social interactions.
 
 # Interests to show in About widget
 interests:
