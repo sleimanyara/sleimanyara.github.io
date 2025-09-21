@@ -1,11 +1,14 @@
 ---
-title: "Remnants of Civil War: Immediate and long-run effects of electoral oppression in cold war Greece"
-date: "2023-01-15"
+title: "Polarising punchlines: The influence of inter-group humour on partisan affective polarisation"
+date: "2024-05-15"
 publication: Working paper
 authors: 
-  - V. Logothetis
   - admin
-doi: ""
+  - Maria Grasso
+  - Charles Pattie
+  - Carlo Hofer
+  - Laura Serra
+doi: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4769335"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -19,7 +22,7 @@ publication_types: ["article-journal"]
 
 
 
-abstract: 
+abstract:  How does political humour influence affective partisan polarisation? In today’s media landscape, humour is increasingly used to ridicule opposing factions, potentially deepening political divides. At the same time, humour can mitigate polarisation by evoking positive emotions and diffusing tensions. Thus far, it remains unclear whether inter-group political humour, as a medium of expression, uniquely impacts polarisation separately from political content more generally. To address this question, we conducted a pre-registered survey experiment in Great Britain (n=2011), employing a 2x3 factorial design that varies both the tone (humorous vs. non-humorous) and target (in-group, out-group, or neutral) of political messages. We find that messages targeting in-partisans increase polarisation. However, when these messages are delivered humorously, the effect is reversed, resulting in a significant decrease in polarisation. Notably, humour moderates the impact of in-group targeted messages on polarisation by reducing both out-group hostility and in-group favouritism. The depolarising effect of humour is attributed to changes in content perception and the reduction of negative emotional responses.
 
 
 tags:
