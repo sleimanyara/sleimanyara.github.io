@@ -4,8 +4,7 @@
 ## Docs: https://gohugo.io/hugo-modules/
 ############################
 
-# Temporarily disabled for basic deployment test
-# imports:
-#   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
-#   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
-#   - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
+imports:
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-netlify
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-plugin-reveal
+  - path: github.com/HugoBlox/hugo-blox-builder/modules/blox-bootstrap/v5
