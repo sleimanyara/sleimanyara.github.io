@@ -21,32 +21,33 @@ role: Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: London School of Economics and Political Science
-    url: https://www.lse.ac.uk/PBS
-  - name: Royal Holloway University London
-    url: https://www.lse.ac.uk/PBS
+  - name: Queen Mary University of London
+    url: https://www.qmul.ac.uk/politics/study/phd/currentresearchstudents/student-profiles/yara-sleiman.html
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research primarily focuses on the foundations of democracy how democratic institutions function, how citizens interact with them and how they can be improved.
 
 # Interests to show in About widget
 interests:
-  - Political Economy
-  - Behavioural Economics
-  - Public Policy
+  - Political Psychology
+  - Political Behaviour
+  - Experimental Methods
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Economics
-      institution: Swansea University
-      year: 2021
-    - course: MSc in Financial Economics
-      institution: Cardiff University
-      year: 2016
-    - course: BSc in Economic and Regional Development
-      institution: Panteion University of Social and Political Sciences
-      year: 2015
+    - course: PhD in Political Science
+      institution: Queen Mary University of London
+      year: 2026
+    - course: MRes in Political Science
+      institution: University College London
+      year: 2023
+    - course: MSc in Economics
+      institution: Lebanese American University
+      year: 2020
+    - course: BSc in Economics
+      institution: Lebanese American University
+      year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -55,19 +56,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:g.melios@lse.ac.uk'
+    link: 'mailto:y.sleiman@qmul.ac.uk'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeMelios
+    link: https://twitter.com/yara_slei
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=0-EKvswAAAAJ&hl=en&authuser=1
+    link: https://scholar.google.com/citations?user=SZCXJocAAAAJ&hl=en&authuser=1
   - icon: github
     icon_pack: fab
-    link: https://github.com/gmelios
+    link: https://github.com/yarasleiman
   # - icon: linkedin
   #   icon_pack: fab
   #   link: https://www.linkedin.com/georgemelios
