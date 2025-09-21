@@ -88,7 +88,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        You can contact me or book an appoinment at:
+        You can contact me at:
       # Contact (add or remove contact options as necessary)
       email: y.sleiman@qmul.ac.uk
       appointment_url: ''
