@@ -1,6 +1,6 @@
 ---
 title: "‘Sleeping With the Enemy’: Partisan Sorting in Online Dating"
-date: "2024-10-03"
+date: "2025-06-01"
 publication: "Political Science Research and Methods (PSRM), Accepted"
 authors: 
   - Admin

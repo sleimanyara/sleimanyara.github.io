@@ -1,7 +1,7 @@
 ---
 title: "Rallying ‘round a failed state: Institutional trust in post-blast Beirut"
 date: "2024-05-15"
-publication: RnR in Journal of Elections, Public Opinion and Parties
+publication: R & R in Journal of Elections, Public Opinion and Parties
 authors: 
   - admin
 doi: ""
