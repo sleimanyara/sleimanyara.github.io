@@ -26,7 +26,6 @@ exclude:
   - .hugo_build.lock
   - hugo.tar.gz
 
-# Include only the files we want to serve
+# Let Hugo handle the site generation
 include:
-  - index.html
   - CNAME
