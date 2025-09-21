@@ -1,0 +1,26 @@
+{{ define "main" }}
+<article>
+    <h1>{{ .Title }}</h1>
+    {{ if .Params.date }}
+    <p><strong>Date:</strong> {{ .Date.Format "January 2, 2006" }}</p>
+    {{ end }}
+    {{ if .Params.authors }}
+    <p><strong>Authors:</strong> {{ delimit .Params.authors ", " }}</p>
+    {{ end }}
+    {{ if .Params.publication }}
+    <p><strong>Publication:</strong> {{ .Params.publication }}</p>
+    {{ end }}
+    {{ if .Params.doi }}
+    <p><strong>DOI:</strong> <a href="{{ .Params.doi }}" target="_blank">{{ .Params.doi }}</a></p>
+    {{ end }}
+    {{ if .Params.abstract }}
+    <div class="abstract">
+        <h3>Abstract</h3>
+        <p>{{ .Params.abstract }}</p>
+    </div>
+    {{ end }}
+    <div class="content">
+        {{ .Content }}
+    </div>
+</article>
+{{ end }}

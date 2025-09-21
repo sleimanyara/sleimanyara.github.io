@@ -5,6 +5,7 @@
 
 title: Yara Sleiman # Website name
 baseURL: 'https://yarasleiman.github.io/' # Website URL
+theme: basic
 
 ############################
 ## LANGUAGE
