@@ -31,20 +31,11 @@ jobs:
         with:
           # Fetch history for Hugo's .GitInfo and .Lastmod
           fetch-depth: 0
-      - name: Setup Go
-        uses: actions/setup-go@v5
-        with:
-          go-version: '~1.22'
-          cache: false
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
-      - name: Initialize Hugo modules
-        run: |
-          hugo mod download || true
-          hugo mod tidy || true
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
