@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 'Yara Sleimman'
+title: 'Yara Sleiman'
 date: 2022-10-24
 type: landing
 
