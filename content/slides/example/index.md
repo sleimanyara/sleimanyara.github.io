@@ -73,16 +73,16 @@ $$
 Make content appear incrementally
 
 ```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
+One
+**Two**
+Three
 ```
 
 Press `Space` to play!
 
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
+One
+**Two**
+Three
 
 ---
 
@@ -107,11 +107,7 @@ Add speaker notes to your presentation
 
 Press the `S` key to view the speaker notes!
 
-{{< speaker_note >}}
-
-- Only the speaker can read these notes
-- Press `S` key to view
-  {{< /speaker_note >}}
+<!-- Speaker note removed -->
 
 ---
 
@@ -131,8 +127,6 @@ Press the `S` key to view the speaker notes!
 - solarized: Cream-colored background, dark green text, blue links
 
 ---
-
-{{< slide background-image="/media/boards.jpg" >}}
 
 ## Custom Slide
 
