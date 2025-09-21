@@ -3,8 +3,8 @@ title: "Who Needs Security in a Crisis? Evidence from an In-the-Field Choice Exp
 date: "2022-09-15"
 publication: "R & R - Journal of Development Studies"
 authors: 
+  - George Melios
   - admin
-  - Yara Sleiman
   - Elisabetta Pietrostefani
   - Henrietta Moore
 doi: "http://dx.doi.org/10.2139/ssrn.4479897"

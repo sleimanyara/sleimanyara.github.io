@@ -1,7 +1,7 @@
 ---
-title: "Religious cross-pressures and electoral decision-making."
-date: "2025-08-15"
-publication: Job Market Paper
+title: "Rallying ‘round a failed state: Institutional trust in post-blast Beirut"
+date: "2024-05-15"
+publication: RnR in Journal of Elections, Public Opinion and Parties
 authors: 
   - admin
 doi: ""
