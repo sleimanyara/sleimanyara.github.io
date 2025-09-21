@@ -1,8 +1,8 @@
 # Jekyll configuration for GitHub Pages
-title: George Melios - Academic Website
+title: Yara Sleiman - Academic Website
 description: Political Science Researcher
 baseurl: ""
-url: "https://gmelios.github.io"
+url: "https://yarasleiman.github.io"
 
 # Disable Jekyll processing for certain files
 exclude:
