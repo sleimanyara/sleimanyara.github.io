@@ -38,10 +38,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;png&#34; srcset=&#34;
-               /post/blog-with-jupyter/output_1_0_hu11402761086741930136.webp 400w,
+               /post/blog-with-jupyter/output_1_0_hu10436241876710648818.webp 400w,
                /post/blog-with-jupyter/output_1_0_hu9583391371614247630.webp 760w,
                /post/blog-with-jupyter/output_1_0_hu10083326660053564461.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/blog-with-jupyter/output_1_0_hu11402761086741930136.webp&#34;
+               src=&#34;http://localhost:1313/post/blog-with-jupyter/output_1_0_hu10436241876710648818.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -243,7 +243,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-184963257&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-962814735&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -253,7 +253,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-184963257&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-962814735&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
