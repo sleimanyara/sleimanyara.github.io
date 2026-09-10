@@ -19,7 +19,7 @@ removePathAccents: true
 ## BUILD
 ############################
 
-publishDir: 'docs'
+publishDir: 'public'
 
 ############################
 ## ADVANCED

@@ -21,8 +21,6 @@ publication_types: ["article-journal"]
 abstract: Who opts for informal work arrangements in times of severe economic uncertainty, and why? While extensive research has been conducted on the effects of informality on the economy, the empirical evidence about which employees enter the informal labour market remains mixed. This study elicits labour preferences for informal work arrangements in Lebanon, a country grappling with severe economic instability. Drawing on qualitative insights, we operationalise informality in the Lebanese labour market and administer an in-the-field choice experiment to elicit job preferences (N=1450) in two Lebanese cities. Our findings show that employees prefer job choices that offer social protection and private insurance but avoid formal contracts.Using an unsupervised clustering technique, we sort informal workers into distinct skill-based groups and show that high-skilled workers self-sort in informality to avoid social security and contracts in an unstable environment. Implications with regard to tax and social security legislation are discussed.
 
 
-tags:
-- Source Themes
 featured: false
 
 # links:

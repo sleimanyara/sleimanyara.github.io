@@ -13,3 +13,9 @@ go.sum
 hugo
 hugo.tar.gz
 hugo_extended.tar.gz
+
+# macOS
+.DS_Store
+
+# Hugo build output (now built by GitHub Actions, not committed)
+docs/
