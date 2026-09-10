@@ -53,6 +53,7 @@ sections:
       spacing:
         padding: ['3rem', '0', '0', '0']
   - block: collection
+    id: research-rr
     content:
       text: |-
         ### Revise & Resubmit
@@ -66,6 +67,7 @@ sections:
       spacing:
         padding: ['0', '0', '0', '0']
   - block: collection
+    id: research-wp
     content:
       text: |-
         ### Working papers
