@@ -1,5 +1,5 @@
 ---
-title: "‘Sleeping With the Enemy’: Partisan Sorting in Online Dating"
+title: "‘Sleeping with the enemy’: Partisan sorting in online dating"
 date: "2024-01-01"
 publication: "*Political Science Research and Methods*"
 authors: 
