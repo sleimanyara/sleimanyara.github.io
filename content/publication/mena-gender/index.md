@@ -5,7 +5,7 @@ publication: "*Review of Political Economy*"
 authors:
   - admin
   - Ali Fakih
-doi: ""
+doi:
 
 publishDate: "2022-01-01T00:00:00Z"
 

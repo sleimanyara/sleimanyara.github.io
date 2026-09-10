@@ -1,5 +1,6 @@
 ---
 title: "Polarising punchlines: The influence of inter-group humour on partisan affective polarisation"
+type: publication
 date: "2024-05-15"
 publication: "R&R at *Political Studies*"
 authors: 
@@ -8,7 +9,7 @@ authors:
   - Charles Pattie
   - Carlo Hofer
   - Laura Serra
-doi: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4769335"
+doi:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-05-15T00:00:00Z"
@@ -16,7 +17,7 @@ publishDate: "2024-05-15T00:00:00Z"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["revise-resubmit"]
 
 # Publication name and optional abbreviated publication name.
 
@@ -30,14 +31,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: 'uploads/pres_lse.pdf'
-url_source: ''
-url_video: ''
+url_pdf:
+url_code:
+url_dataset:
+url_poster:
+url_project:
+url_slides:
+url_source:
+url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -6,7 +6,7 @@ authors:
   - admin
   - George Melios
   - Paul Dolan
-doi: "http://dx.doi.org/10.2139/ssrn.4589420"
+doi:
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2024-01-01T00:00:00Z"
@@ -28,14 +28,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/dating_v1.pdf'
-url_code: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G1H0UA'
-url_dataset: 'https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/G1H0UA'
-url_poster: ''
-url_project: ''
-url_slides: 'uploads/dating_psa.pdf'
-url_source: ''
-url_video: ''
+url_pdf:
+url_code:
+url_dataset:
+url_poster:
+url_project:
+url_slides:
+url_source:
+url_video:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

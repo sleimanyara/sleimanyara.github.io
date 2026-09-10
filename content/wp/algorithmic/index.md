@@ -1,14 +1,15 @@
 ---
 title: "Representation without voice: Citizen reactions to algorithmic preference inference in government"
+type: publication
 date: "2026-03-01"
-publication: "In progress"
+publication: "Working paper"
 authors:
   - admin
-doi: ""
+doi:
 
 publishDate: "2026-03-01T00:00:00Z"
 
-publication_types: ["article-journal"]
+publication_types: ["working-paper"]
 
 abstract:
 

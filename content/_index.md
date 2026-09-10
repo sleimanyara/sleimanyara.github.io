@@ -40,8 +40,9 @@ sections:
   - block: collection
     id: research
     content:
-      title: Research
       text: |-
+        # Research
+
         ### Publications
       filters:
         folders:
@@ -80,21 +81,19 @@ sections:
       view: citation
       spacing:
         padding: ['0', '0', '3rem', '0']
-  - block: collection
+  - block: markdown
     id: teaching
     content:
-     title: Teaching
-     filters:
-      folders:
-        - teaching
-     design:
-       columns: '2'
-       view: compact
-  # - block: tag_cloud
-  #   content:
-  #     title: Popular Topics
-  #   design:
-  #     columns: '2'
+      title: Teaching
+      text: |-
+        Seminar Leader, Queen Mary University of London
+
+        - Quantitative Methods for Social Science Research
+        - Political Analysis
+        - Introduction to Political Science
+        - Comparative Politics
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:

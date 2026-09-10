@@ -1,0 +1,12 @@
+# Project overrides for Hugo Blox labels.
+# The theme derives the key from `publication_types` as pub_<type with - as _>.
+# Only three types are used on this site.
+
+- id: pub_article_journal
+  translation: Journal article
+
+- id: pub_working_paper
+  translation: Working paper
+
+- id: pub_revise_resubmit
+  translation: Revise & Resubmit

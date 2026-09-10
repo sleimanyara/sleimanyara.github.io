@@ -1,14 +1,15 @@
 ---
 title: "Group cross-pressures and correct voting in American elections"
+type: publication
 date: "2026-02-01"
 publication: "R&R at *Electoral Studies*"
 authors:
   - admin
-doi: ""
+doi:
 
 publishDate: "2026-02-01T00:00:00Z"
 
-publication_types: ["article-journal"]
+publication_types: ["revise-resubmit"]
 
 abstract: |-
   Social identities increasingly sort Americans into opposing partisan camps, yet many
