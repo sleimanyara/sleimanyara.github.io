@@ -1,7 +1,7 @@
 ---
 title: "‘Sleeping With the Enemy’: Partisan Sorting in Online Dating"
-date: "2025-06-01"
-publication: "Political Science Research and Methods (PSRM), Accepted"
+date: "2024-01-01"
+publication: "*Political Science Research and Methods*"
 authors: 
   - admin
   - George Melios
@@ -9,7 +9,7 @@ authors:
 doi: "http://dx.doi.org/10.2139/ssrn.4589420"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-06-01T00:00:00Z"
+publishDate: "2024-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).

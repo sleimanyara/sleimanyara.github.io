@@ -1,7 +1,7 @@
 ---
-title: "Rallying ‘round a failed state: Institutional trust in post-blast Beirut"
+title: "Public responses to domestic disasters: Evidence from a quasi-experiment in Beirut"
 date: "2024-05-15"
-publication: R & R in Journal of Elections, Public Opinion and Parties
+publication: "R&R at *Acta Politica*"
 authors: 
   - admin
 doi: ""

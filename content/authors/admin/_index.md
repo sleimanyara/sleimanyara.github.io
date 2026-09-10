@@ -40,14 +40,14 @@ education:
     - course: PhD in Political Science
       institution: Queen Mary University of London
       year: 2026
-    - course: MRes in Political Science
+    - course: MPhil in Political Science
       institution: University College London
-      year: 2022
-    - course: MSc in Economics
+      year: 2023
+    - course: MA in Applied Economics
       institution: Lebanese American University
-      year: 2019
-    - course: BA in Economics and Political Science
-      institution: Lebanese American University 
+      year: 2020
+    - course: BSc in Economics
+      institution: Lebanese American University
       year: 2018
 
 # Social/Academic Networking

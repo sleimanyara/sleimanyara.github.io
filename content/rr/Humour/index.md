@@ -1,7 +1,7 @@
 ---
 title: "Polarising punchlines: The influence of inter-group humour on partisan affective polarisation"
 date: "2024-05-15"
-publication: Working paper
+publication: "R&R at *Political Studies*"
 authors: 
   - admin
   - Maria Grasso

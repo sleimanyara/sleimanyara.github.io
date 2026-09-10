@@ -53,6 +53,17 @@ sections:
       columns: '2'
       view: citation
   - block: collection
+    id: rr
+    content:
+      title: Revise & Resubmit
+      filters:
+        folders:
+          - rr
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
     id: wp
     content: 
       title: Working Papers

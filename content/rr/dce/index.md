@@ -1,7 +1,8 @@
 ---
+publishDate: "2022-09-15T00:00:00Z"
 title: "Who Needs Security in a Crisis? Evidence from an In-the-Field Choice Experiment in Lebanon"
 date: "2022-09-15"
-publication: "R & R - Journal of Development Studies"
+publication: "R&R at *Journal of Development Studies*"
 authors: 
   - George Melios
   - admin
