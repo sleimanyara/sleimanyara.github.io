@@ -80,7 +80,7 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-My name is Yara and I am a final-year PhD candidate in Political Science at the Queen Mary University of London, supervised by Prof. Maria Grasso. My dissertation examines how democratic participation is shaped by political cross-pressures, situations where voters are subjected to conflicting influences that affect their political preferences.
+My name is Yara and I am a Postdoctoral Fellow in the Department of Government at the London School of Economics and Political Science. My doctoral research at Queen Mary University of London, supervised by Prof. Maria Grasso and Dr. Sofia Collignon, examined how democratic participation is shaped by political cross-pressures, situations where voters are subjected to conflicting influences that affect their political preferences.
 
 My work revisits classic cross-pressures rooted in competing group memberships.  While classic accounts see such pressures as demobilising, recent work suggests they encourage deliberation by exposing citizens to diverse viewpoints. I argue that group-based cross-pressures primarily reshape how citizens decide. Using panel data analysis and a novel dynamic conjoint experiment in the US that traces electoral decision-making in real time, I show that group cross-pressures weaken policy-congruent (“correct”) voting by discouraging information-seeking and pushing voters to anchor their choices on a single salient issue. This challenges the normative view that holding conflicted attitudes improves the quality of participation and suggests that cross-pressures constrain deliberation and weaken the representational signal voters send to parties.
 
