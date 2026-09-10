@@ -41,7 +41,7 @@ sections:
     id: research
     content:
       text: |-
-        # Research
+        # Research {#research-heading}
 
         ### Publications
       filters:
@@ -85,7 +85,7 @@ sections:
     id: teaching
     content:
       text: |-
-        # Teaching
+        # Teaching {#teaching-heading}
 
         Seminar Leader, Queen Mary University of London
 
@@ -99,7 +99,7 @@ sections:
     id: contact
     content:
       text: |-
-        # Contact
+        # Contact {#contact-heading}
     design:
       columns: '2'
       spacing:
