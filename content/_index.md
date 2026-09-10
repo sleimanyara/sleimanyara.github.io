@@ -38,13 +38,11 @@ sections:
   #   design:
   #     columns: '1'
   - block: collection
-    id: papers 
+    id: research
     content:
-      title: Publications
+      title: Research
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering papers](./publication/).
-        {{% /callout %}}
+        ### Publications
       filters:
         folders:
           - publication
@@ -52,10 +50,12 @@ sections:
     design:
       columns: '2'
       view: citation
+      spacing:
+        padding: ['3rem', '0', '0', '0']
   - block: collection
-    id: rr
     content:
-      title: Revise & Resubmit
+      text: |-
+        ### Revise & Resubmit
       filters:
         folders:
           - rr
@@ -63,21 +63,21 @@ sections:
     design:
       columns: '2'
       view: citation
+      spacing:
+        padding: ['0', '0', '0', '0']
   - block: collection
-    id: wp
-    content: 
-      title: Working papers
+    content:
       text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering working papers](./wp/).
-        {{% /callout %}}
+        ### Working papers
       filters:
         folders:
           - wp
         exclude_featured: true
     design:
       columns: '2'
-      view: citation      
+      view: citation
+      spacing:
+        padding: ['0', '0', '3rem', '0']
   - block: collection
     id: teaching
     content:
