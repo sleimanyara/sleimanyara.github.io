@@ -30,9 +30,9 @@ bio: My research is on how democratic participation is shaped by political cross
 
 # Interests to show in About widget
 interests:
-  - Political Psychology  
   - Political Behaviour
-  - Identity and Politics
+  - Political Psychology
+  - Experimental Methods
 
 # Education to show in About widget
 education:
