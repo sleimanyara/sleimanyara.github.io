@@ -84,8 +84,9 @@ sections:
   - block: markdown
     id: teaching
     content:
-      title: Teaching
       text: |-
+        # Teaching
+
         Seminar Leader, Queen Mary University of London
 
         - Quantitative Methods for Social Science Research
@@ -94,33 +95,34 @@ sections:
         - Comparative Politics
     design:
       columns: '2'
-  - block: contact
+  - block: markdown
     id: contact
     content:
-      title: Contact
-      subtitle:
+      text: |-
+        # Contact
+    design:
+      columns: '2'
+      spacing:
+        padding: ['3rem', '0', '0', '0']
+  - block: contact
+    id: contact-details
+    content:
       text: |-
         You can contact me at:
-      # Contact (add or remove contact options as necessary)
       email: yarajsleiman@gmail.com
       appointment_url: ''
       address:
-        street: 
-        city: 
-        postcode: 
-        country: 
-        country_code: 
-      directions: 
+        street:
+        city:
+        postcode:
+        country:
+        country_code:
+      directions:
       office_hours:
-      # Choose a map provider in `params.yaml` to show a map from these coordinates
-      # contact_links:
-      #   - icon: twitter
-      #     icon_pack: fab
-      #     name: DM Me
-      #     link: 'https://twitter.com/GeorgeMelios'
-      # Automatically link email and phone or display as text?
-      design:
+    design:
       columns: '2'
+      spacing:
+        padding: ['0', '0', '3rem', '0']
   # - block: collection
   #   id: posts
   #   content:
