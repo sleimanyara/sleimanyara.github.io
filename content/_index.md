@@ -40,7 +40,7 @@ sections:
   - block: collection
     id: papers 
     content:
-      title: Selected papers
+      title: Publications
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering papers](./publication/).
@@ -66,7 +66,7 @@ sections:
   - block: collection
     id: wp
     content: 
-      title: Working Papers
+      title: Working papers
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering working papers](./wp/).
@@ -101,7 +101,7 @@ sections:
       text: |-
         You can contact me at:
       # Contact (add or remove contact options as necessary)
-      email: y.sleiman@qmul.ac.uk
+      email: yarajsleiman@gmail.com
       appointment_url: ''
       address:
         street: 

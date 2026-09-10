@@ -17,13 +17,13 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Political Science
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Queen Mary University of London
-    url: https://www.qmul.ac.uk/politics/study/phd/currentresearchstudents/student-profiles/yara-sleiman.html
-    position: PhD Candidate
+  - name: London School of Economics and Political Science
+    url: https://www.lse.ac.uk/government
+    position: Postdoctoral Fellow
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research is on how democratic participation is shaped by political cross-pressures, situations where voters are subjected to conflicting influences that affect their political preferences.
@@ -57,11 +57,17 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:y.sleiman@qmul.ac.uk'
-  - icon: twitter
+    link: 'mailto:yarajsleiman@gmail.com'
+  - icon: x-twitter
     icon_pack: fab
-    link: https://twitter.com/yara_slei
-    label: Follow me on Twitter
+    link: https://x.com/yara_slei
+    label: Follow me on X
+    display:
+      header: true
+  - icon: bluesky
+    icon_pack: fab
+    link: https://bsky.app/profile/yarasleiman.bsky.social
+    label: Follow me on Bluesky
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
@@ -82,7 +88,7 @@ highlight_name: true
 ---
 My name is Yara and I am a final-year PhD candidate in Political Science at the Queen Mary University of London, supervised by Prof. Maria Grasso. My dissertation examines how democratic participation is shaped by political cross-pressures, situations where voters are subjected to conflicting influences that affect their political preferences.
 
-My work revisits classic cross-pressures rooted in competing group memberships.  While classic accounts see such pressures as demobilizing, recent work suggests they encourage deliberation by exposing citizens to diverse viewpoints. I argue that group-based cross-pressures primarily reshape how citizens decide. Using panel data analysis and a novel dynamic conjoint experiment in the US that traces electoral decision-making in real time, I show that group cross-pressures weaken policy-congruent (“correct”) voting by discouraging information-seeking and pushing voters to anchor their choices on a single salient issue. This challenges the normative view that holding conflicted attitudes improves the quality of participation and suggests that cross-pressures constrain deliberation and weaken the representational signal voters send to parties.
+My work revisits classic cross-pressures rooted in competing group memberships.  While classic accounts see such pressures as demobilising, recent work suggests they encourage deliberation by exposing citizens to diverse viewpoints. I argue that group-based cross-pressures primarily reshape how citizens decide. Using panel data analysis and a novel dynamic conjoint experiment in the US that traces electoral decision-making in real time, I show that group cross-pressures weaken policy-congruent (“correct”) voting by discouraging information-seeking and pushing voters to anchor their choices on a single salient issue. This challenges the normative view that holding conflicted attitudes improves the quality of participation and suggests that cross-pressures constrain deliberation and weaken the representational signal voters send to parties.
 
 {style="text-align: justify;"}
 

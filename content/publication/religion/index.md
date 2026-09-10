@@ -18,8 +18,20 @@ publication_types: ["article-journal"]
 
 
 
-abstract:  
-
+abstract: |-
+  For many Americans, religious teachings are central to political identity, yet these
+  teachings often do not align neatly with party platforms. How do voters decide when
+  their faith crosses partisan lines? I examine this question by focusing on Catholic
+  and Muslim Americans, whose moral and social world-views span both sides of the
+  partisan divide. Using a novel 'dynamic' choice experiment, I show that religious
+  cross-pressures shape how voters arrive at their choices. Contrary to classic accounts
+  linking cross-pressures to disengagement, I find no evidence of increased decision
+  avoidance; instead, voters remain engaged but simplify their choices. Cross-pressure
+  salience is linked to greater decision difficulty, reduced information search, and
+  greater reliance on issue prioritisation. These findings challenge the view that
+  attitudinal conflict improves the quality of democratic participation, suggesting
+  instead that cross-pressures constrain deliberation and may weaken the
+  representational signal voters send to parties.
 featured: false
 
 # links:

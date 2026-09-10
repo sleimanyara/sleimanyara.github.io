@@ -18,8 +18,21 @@ publication_types: ["article-journal"]
 
 
 
-abstract:  
-
+abstract: |-
+  How do disasters affect public opinion in fragile democracies? Previous research on
+  public responses to security failures has been limited to the contexts of intergroup
+  conflict and terrorism. This study presents quasi-experimental evidence on changes in
+  institutional trust following the Beirut blast, a domestic disaster attributed to
+  governmental negligence. The analysis reveals an increase in institutional trust
+  following the blast. At the same time, effect sizes vary substantially across
+  institutions, suggesting that voters in fragile states are capable of differentially
+  attributing responsibility for a disaster. Contrary to conventional rally-effect
+  expectations, I show that this response is likely not driven by heightened patriotism
+  or the influence of opinion leaders. Instead, it appears to be associated with
+  government relief efforts and institutional performance during the crisis. The results
+  have important implications for understanding the political effects of crises in
+  fragile democracies where the legitimacy and competence of state institutions are
+  continuously under public scrutiny.
 featured: false
 
 # links:
