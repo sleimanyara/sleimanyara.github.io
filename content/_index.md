@@ -87,8 +87,6 @@ sections:
       text: |-
         # Teaching {#teaching-heading}
 
-        Seminar Leader, Queen Mary University of London
-
         - Quantitative Methods for Social Science Research
         - Political Analysis
         - Introduction to Political Science
