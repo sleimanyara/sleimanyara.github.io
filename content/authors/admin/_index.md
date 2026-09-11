@@ -87,8 +87,10 @@ social:
 highlight_name: true
 ---
 
-My name is Yara Sleiman. I am a Postdoctoral Fellow in the Department of Government at the London School of Economics and Political Science. I hold a PhD in Political Science from Queen Mary University of London.
+My name is Yara Sleiman. I am a Postdoctoral Fellow in the Department of Government at the London School of Economics and Political Science. I hold a PhD in Political Science from Queen Mary University of London, an MPhil in Political Science from University College London and an MA in Applied Economics from the Lebanese American University.
 
-My research lies at the intersection of political behaviour, political psychology, and experimental political science. I study how citizens in advanced democracies process political information and translate it into political judgments and choices, with a particular interest in how competing social and informational cues shape this process. My research has been published in the British Journal of Political Science, Political Science Research and Methods, and the Review of Political Economy.
+My research examines how social identities and information environments shape political judgment and behaviour, with a particular focus on cross-pressured voters, political polarisation and communication, and emerging forms of AI-mediated democratic engagement.
+
+A second strand of my research focuses on political behaviour and public opinion in the MENA region, including work on gender gaps in political participation, public responses to domestic crises, and policy-relevant research on public opinion and development with the World Bank. My research has been published in the British Journal of Political Science, Political Science Research and Methods, and the Review of Political Economy.
 
 {style="text-align: justify;"}
