@@ -25,7 +25,12 @@ publishDir: 'public'
 ## ADVANCED
 ############################
 
-enableGitInfo: false
+enableGitInfo: true
+
+# Sitemap <lastmod> should reflect the real commit date, not the `date:` field.
+# Without this the homepage advertised 2022-10-24 and crawlers deprioritised it.
+frontmatter:
+  lastmod: [':git', 'lastmod', 'date']
 summaryLength: 30
 pagination:
   pagerSize: 10
