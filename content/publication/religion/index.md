@@ -1,13 +1,13 @@
 ---
-title: "Religious cross-pressures and electoral decision-making"
-date: "2026-09-15"
-publication: "Forthcoming, *British Journal of Political Science*"
+title: "Religious cross-pressures and electoral decision making"
+date: "2026-09-23"
+publication: "*British Journal of Political Science*, 56, e51"
 authors: 
   - admin
-doi:
+doi: "10.1017/S0007123426101720"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-09-15T00:00:00Z"
+publishDate: "2026-09-23T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
