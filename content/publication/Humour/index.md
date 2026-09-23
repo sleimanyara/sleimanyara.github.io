@@ -1,8 +1,7 @@
 ---
 title: "Polarising punchlines: The influence of inter-group humour on partisan affective polarisation"
-type: publication
-date: "2024-05-15"
-publication: "R&R at *Political Studies*"
+date: "2026-09-01"
+publication: "Forthcoming, *Political Studies*"
 authors: 
   - admin
   - Maria Grasso
@@ -12,12 +11,12 @@ authors:
 doi:
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-05-15T00:00:00Z"
+publishDate: "2026-09-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["revise-resubmit"]
+publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 
