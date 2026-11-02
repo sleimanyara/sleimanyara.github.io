@@ -1,17 +1,17 @@
 ---
-title: "Polarising punchlines: The influence of inter-group humour on partisan affective polarisation"
-date: "2026-09-01"
-publication: "Forthcoming, *Political Studies*"
+title: "Polarising punchlines: The influence of intergroup humour on affective political polarisation"
+date: "2026-10-23"
+publication: "*Political Studies*"
 authors: 
   - admin
   - Maria Grasso
   - Charles Pattie
-  - Carlo Hofer
   - Laura Serra
-doi:
+  - Carlo Hofer
+doi: "10.1177/00323217261496123"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2026-09-01T00:00:00Z"
+publishDate: "2026-10-23T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
