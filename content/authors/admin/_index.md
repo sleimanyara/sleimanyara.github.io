@@ -57,7 +57,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yarajsleiman@gmail.com'
+    link: 'mailto:y.sleiman@lse.ac.uk'
   - icon: x-twitter
     icon_pack: fab
     link: https://x.com/yara_slei

@@ -107,7 +107,7 @@ sections:
     content:
       text: |-
         You can contact me at:
-      email: yarajsleiman@gmail.com
+      email: y.sleiman@lse.ac.uk
       appointment_url: ''
       address:
         street:
