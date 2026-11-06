@@ -2,6 +2,10 @@
 title: "Polarising punchlines: The influence of intergroup humour on affective political polarisation"
 date: "2026-10-23"
 publication: "*Political Studies*"
+
+# Redirect the old Revise & Resubmit URL, live before the paper was accepted.
+aliases:
+  - /rr/humour/
 authors: 
   - admin
   - Maria Grasso

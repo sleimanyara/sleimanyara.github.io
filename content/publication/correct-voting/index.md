@@ -2,6 +2,10 @@
 title: "Group cross-pressures and correct voting in American elections"
 date: "2026-11-01"
 publication: "Forthcoming, *Electoral Studies*"
+
+# Redirect the old Revise & Resubmit URL, live before the paper was accepted.
+aliases:
+  - /rr/correct-voting/
 authors:
   - admin
 doi:
