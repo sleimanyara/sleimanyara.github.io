@@ -43,7 +43,10 @@ permalinks:
   tags: '/tag/:slug/'
   categories: '/category/:slug/'
   publication_types: '/publication-type/:slug/'
-disableAliases: true
+# The theme ships `true` because Hugo Blox emits a Netlify `_redirects` file
+# instead. GitHub Pages ignores that file, so aliases have to be real HTML
+# redirect pages or an old URL just 404s.
+disableAliases: false
 outputs:
   home: [HTML, RSS, JSON, WebAppManifest, headers, redirects]
   section: [HTML, RSS]
